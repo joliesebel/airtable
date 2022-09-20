@@ -1,4 +1,4 @@
-"""airtable.py: Updates information from dash files/dash applications/rank calculations to required airtable databases"""
+"""airtable.py: Updates information from dash files/dash applications/rank calculations/photos folder to required airtable databases"""
 __author__ = "Jolie Sebel"
 
 #Import necessary packages
